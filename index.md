@@ -18,6 +18,6 @@
 
 >openldap
 
-- /etc/openldap/
-
+- /etc/openldap/reldap.sh
+- /etc/openldap/slapd.conf
 
