@@ -14,7 +14,8 @@
 - /var/kerberos/krb5kdc/kdc.conf
 - /var/kerberos/krb5kdc/kadm5.acl
 - /var/kerberos/krb5kdc/service.keyfile
-- **/VAR/KERBEROS/KRB5KDC/.K5.58OS.ORG**
+- **/var/kerberos/krb5kdc/.k5.58os.org**
+
 >openldap
 
 - /etc/openldap/
