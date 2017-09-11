@@ -4,7 +4,7 @@
 
 1.安装组件
 
-`yum install openldap openldap-servers openldap-clients openldap-devel compat-openldap install db4 db4-utils db4-devel cyrus-sasl* krb5-server-ldap`
+`yum install openldap openldap-servers openldap-clients openldap-devel compat-openldap db4 db4-utils db4-devel cyrus-sasl* krb5-server-ldap`
 
 2.配置文件
 
